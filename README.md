@@ -1,6 +1,6 @@
 # Thundera-Health
 
-## Sistema de dados de saúde de alunos para escolas. O objetivo é que os gestores e professores tenham acesso mais fácil e eficaz no processo de consulta sobre o  aluno com relação a informações de saúde. Verificar se toma algum medicamento, possuir transtornos psicológicos, realiza algum tipo de consulta médica frequente, ## problemas crônicos em casos de emergência por exemplo.
+## Sistema de dados de saúde de alunos para escolas. O objetivo é que os gestores e professores tenham acesso mais fácil e eficaz no processo de consulta sobre o  aluno com relação a informações de saúde. Verificar se toma algum medicamento, possuir transtornos psicológicos, realiza algum tipo de consulta médica frequente, problemas crônicos em casos de emergência por exemplo.
 
 ### Em primeiro caso, estamos focando o desenvolvimento desta aplicação sob o cenário de uma instituíção publica que possui várias modalidades (ensino, ensino médio ### regular e técnico, cursos técnicos e superiores) ao qual, os alunos do ensino médio seriam assim nossa persona's.
 
